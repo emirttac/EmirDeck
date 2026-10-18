@@ -16,6 +16,8 @@ Runs in the system tray. Press an assigned key → fullscreen video, audio, or i
 - Native PyQt6 — no Electron
 - Shared app mark (`assets/emirdeck.ico`) used for tray, windows, and installer
 
+<img width="642" height="492" alt="image" src="https://github.com/user-attachments/assets/700e1d3b-4650-486a-b0d9-0db94f1d9b23" />
+
 ## Install (end users)
 
 Download **`EmirDeck-Setup.exe`** from [Releases](https://github.com/emirttac/EmirDeck/releases) and run it.
